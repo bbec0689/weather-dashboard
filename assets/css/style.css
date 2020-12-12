@@ -16,6 +16,16 @@ body {
     color: white;
 }
 
+li {
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.spacing {
+    padding-left: 15px;
+    justify-content: space-between;
+}
+
 h3{
     font-weight: bold;
 }
